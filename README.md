@@ -12,5 +12,5 @@
 ##Improvements done
 <p>Changed the file name and added Readme file to know more about the website </p>
 ##AUTHOR
-<h4>*®️Chodith*</h4> 
+<h4>Chodith</h4> 
 
